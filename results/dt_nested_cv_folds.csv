@@ -1,0 +1,6 @@
+model,fold,inner_best_score,outer_test_f1,gap,best_params
+Decision Tree,1,0.4603838178963208,0.4860215053763441,-0.025637687480023263,"{'max_depth': 5, 'min_samples_split': 10}"
+Decision Tree,2,0.4889188706948163,0.45701357466063347,0.03190529603418285,"{'max_depth': 3, 'min_samples_split': 2}"
+Decision Tree,3,0.4889495622583316,0.4339622641509434,0.05498729810738817,"{'max_depth': 3, 'min_samples_split': 2}"
+Decision Tree,4,0.4751932257711527,0.48036951501154734,-0.005176289240394649,"{'max_depth': 3, 'min_samples_split': 2}"
+Decision Tree,5,0.46897944830545024,0.4573804573804574,0.011598990924992836,"{'max_depth': 3, 'min_samples_split': 2}"
